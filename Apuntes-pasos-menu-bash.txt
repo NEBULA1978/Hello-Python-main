@@ -1,0 +1,82 @@
+
+Skip to content
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+@NEBULA1978
+NEBULA1978 /
+Master-bash-Javascript
+Public
+
+Cannot fork because you own this repository and are not a member of any organizations.
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+
+    Settings
+
+Master-bash-Javascript/pasos.txt
+@NEBULA1978
+NEBULA1978 Add files via upload
+Latest commit 1694901 Dec 15, 2022
+History
+1 contributor
+33 lines (28 sloc) 648 Bytes
+ls scpits-JS > nombres.txt
+ex013_sentencia_const.js
+ex014_crear_literales.js
+ex016_undefined.js
+ex017_undefined_typeof.js
+ex018_retorno_funcion.js
+
+/////////////////////////////////////
+
+./prueba-nombres-menu-BUENO.sh 
+echo "1. ex013_sentencia_const.js"
+echo "2. ex014_crear_literales.js"
+echo "3. ex016_undefined.js"
+echo "4. ex017_undefined_typeof.js"
+echo "5. ex018_retorno_funcion.js"
+
+/////////////////////////////////////
+
+Abro consola sino no veo desde visual studio code:
+./'prueba-nombres-menu-BUENO copy.sh'
+
+0)
+node ex013_sentencia_const.js
+read foo
+;;
+1)
+node ex014_crear_literales.js
+read foo
+;;
+2)
+node ex016_undefined.js
+read foo
+;;
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
+Master-bash-Javascript/pasos.txt at main · NEBULA1978/Master-bash-Javascript

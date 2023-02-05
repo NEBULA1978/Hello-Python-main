@@ -1,0 +1,128 @@
+echo "1. 00_helloworld.py"
+
+echo "2. 01_variables.py"
+
+echo "3. 02_operators.py"
+
+echo "4. 03_strings.py"
+
+echo "5. 04_lists.py"
+
+echo "6. 05_tuples.py"
+
+echo "7. 06_sets.py"
+
+echo "8. 07_dicts.py"
+
+echo "9. 08_conditionals.py"
+
+echo "10. 09_loops.py"
+
+echo "11. 10_functions.py"
+
+echo "12. 11_classes.py"
+
+echo "13. 12_exceptions.py"
+
+echo "14. 13_modules.py"
+
+echo "15. my_module.py"
+
+echo "16. nombres.txt"
+
+echo "1. 00_helloworld.py"
+
+echo "2. 01_variables.py"
+
+echo "3. 02_operators.py"
+
+echo "4. 03_strings.py"
+
+echo "5. 04_lists.py"
+
+echo "6. 05_tuples.py"
+
+echo "7. 06_sets.py"
+
+echo "8. 07_dicts.py"
+
+echo "9. 08_conditionals.py"
+
+echo "10. 09_loops.py"
+
+echo "11. 10_functions.py"
+
+echo "12. 11_classes.py"
+
+echo "13. 12_exceptions.py"
+
+echo "14. 13_modules.py"
+
+echo "15. my_module.py"
+
+echo "16. nombres.txt"
+
+echo "1. 00_helloworld.py"
+
+echo "2. 01_variables.py"
+
+echo "3. 02_operators.py"
+
+echo "4. 03_strings.py"
+
+echo "5. 04_lists.py"
+
+echo "6. 05_tuples.py"
+
+echo "7. 06_sets.py"
+
+echo "8. 07_dicts.py"
+
+echo "9. 08_conditionals.py"
+
+echo "10. 09_loops.py"
+
+echo "11. 10_functions.py"
+
+echo "12. 11_classes.py"
+
+echo "13. 12_exceptions.py"
+
+echo "14. 13_modules.py"
+
+echo "15. my_module.py"
+
+echo "16. nombres.txt"
+
+echo "1. 00_helloworld.py"
+
+echo "2. 01_variables.py"
+
+echo "3. 02_operators.py"
+
+echo "4. 03_strings.py"
+
+echo "5. 04_lists.py"
+
+echo "6. 05_tuples.py"
+
+echo "7. 06_sets.py"
+
+echo "8. 07_dicts.py"
+
+echo "9. 08_conditionals.py"
+
+echo "10. 09_loops.py"
+
+echo "11. 10_functions.py"
+
+echo "12. 11_classes.py"
+
+echo "13. 12_exceptions.py"
+
+echo "14. 13_modules.py"
+
+echo "15. my_module.py"
+
+echo "16. nombres.txt"
+

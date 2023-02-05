@@ -1,0 +1,64 @@
+0)
+node 00_helloworld.py
+read foo
+;;
+1)
+node 01_variables.py
+read foo
+;;
+2)
+node 02_operators.py
+read foo
+;;
+3)
+node 03_strings.py
+read foo
+;;
+4)
+node 04_lists.py
+read foo
+;;
+5)
+node 05_tuples.py
+read foo
+;;
+6)
+node 06_sets.py
+read foo
+;;
+7)
+node 07_dicts.py
+read foo
+;;
+8)
+node 08_conditionals.py
+read foo
+;;
+9)
+node 09_loops.py
+read foo
+;;
+10)
+node 10_functions.py
+read foo
+;;
+11)
+node 11_classes.py
+read foo
+;;
+12)
+node 12_exceptions.py
+read foo
+;;
+13)
+node 13_modules.py
+read foo
+;;
+14)
+node my_module.py
+read foo
+;;
+15)
+node nombres.txt
+read foo
+;;
